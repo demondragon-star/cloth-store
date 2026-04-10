@@ -1,0 +1,4 @@
+{
+  "source_directories": ["product-bg-removal"],
+  "search_path": ["product-bg-removal/venv/Lib/site-packages"]
+}

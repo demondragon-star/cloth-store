@@ -39,3 +39,17 @@ yarn-error.*
 # generated native folders
 /ios
 /android
+
+# backup files
+*.backup
+*.bak
+*.old
+*.copy
+
+# documentation (keep only README.md)
+*_FIX.md
+*_COMPLETE.md
+*_STATUS.md
+*_GUIDE.md
+*_SUMMARY.md
+CLEANUP_SUMMARY.txt
