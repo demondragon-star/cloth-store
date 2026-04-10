@@ -119,13 +119,15 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 ---
 
 ADMIN WEB PANEL :
+
 <img width="1600" height="693" alt="image" src="https://github.com/user-attachments/assets/53b7a7eb-2bb0-4cd0-a4f4-2e14270c901c" />
 
 ADMIN APP :
+
 <img width="1080" height="2303" alt="image" src="https://github.com/user-attachments/assets/7b9ca368-aba9-47a7-900c-06630fbe2cb9" />
 
 CUSTOMER APP :
+
 <img width="1080" height="2308" alt="image" src="https://github.com/user-attachments/assets/c57bb0de-d3a1-4ac1-abde-48c9f54883c6" />
 
-
-> Built with ❤️ by [Krishna Teja](https://github.com/krishnateja7781)
+>    Built with ❤️ by [Krishna Teja](https://github.com/krishnateja7781)
